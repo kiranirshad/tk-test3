@@ -1,0 +1,47 @@
+/* write your CSS here */
+nav .logo{
+    height: 60px;
+    width: 60px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+h6,p{
+    color: black;
+} 
+#img-div{
+   height: 230px;
+ width: 150px !important;
+
+
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+}
+span{
+    color: #6cb915;
+}
+input{
+    height: 35px;
+    width: 60px;
+    margin: 0px;
+}
+button{
+    margin: 0px;
+    font-size: 40px;
+}
+.total{
+    text-align: center;
+}
+.js-div{
+    display: flex;
+    justify-content: flex-end;
+  
+}
+
+
+
